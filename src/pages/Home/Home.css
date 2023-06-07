@@ -4,3 +4,10 @@
     justify-content: center;
     gap: 4rem;
 }
+
+.gallery-title {
+    font-size: 2rem;
+    color: #7B78E5;
+    margin-top: 3rem;
+    margin-left: 20rem;
+}
